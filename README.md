@@ -1,12 +1,4 @@
-## Hi I'm Selene Culquicondor 👋
----
-
-### 🗓️ Mi actividad en GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=selenecu&theme=github-compact)
-
----
-<h1 align="center">Hola, soy Jhomar Alexis 👋</h1>
+<h1 align="center">Hola, soy Selene Culquicondor 👋</h1>
 
 <p align="center">
   Desarrollador web apasionado por la tecnología, el aprendizaje continuo y crear soluciones que impacten positivamente. 🌐💡 <br/>
@@ -47,7 +39,7 @@
 
 ### 🏆 Trofeos de GitHub
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=selenecu&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=selenecu&theme=algolia&margin-w=10&margin-h=10)](https://github.com/selenecu)
 
 ---
 
